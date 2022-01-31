@@ -1,0 +1,43 @@
+
+@media screen and (max-width: 500px) {
+  
+    .publi-res{
+      width: 50%;
+      padding: 20px;  
+      border-radius: 30px;
+      display: flex;
+      flex-direction: column;
+  
+  }
+  .publi{
+      width: 70%;
+      margin: 5px;
+      border-radius: 30px;
+      padding: 100px;
+  }
+  .publi .titulo-publi{
+      font-size: 10px;
+  }
+  .publi .cont-publi{
+      font-size: 7px;
+  }
+  .publi .date{
+    font-size: 5px;
+}
+  }
+
+  @media screen and (max-width: 500px) {
+  
+  
+    .pes-publi{
+        width: 100%;
+   
+        font-size: 10px;
+    }
+
+    .ti{
+        font-size: 15px;
+    }
+    
+}
+
