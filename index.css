@@ -110,3 +110,10 @@ form input{
 body{
     background-color: black;
 }
+
+.publi{
+    visibility: hidden;
+}
+.pes{
+    visibility: hidden;
+}
