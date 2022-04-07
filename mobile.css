@@ -21,4 +21,10 @@
         font-size: 11px; 
     }
 
+    .publi .date{
+        position: absolute;
+        top: 190px;
+        left: 230px;
+        font-size: 10px;
+    }
 }
